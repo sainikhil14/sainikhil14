@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sainikhil14
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular and Spring Boot Full Stack development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me -->sainikhil21416@gmail.com
+- I’m currently learning Angular and Spring Boot Full Stack development
+- I’m looking to collaborate on 
+- How to reach me -->sainikhil21416@gmail.com
 - My LeetCode Profile https://leetcode.com/saiNikhilAvula/
 
 <!---
